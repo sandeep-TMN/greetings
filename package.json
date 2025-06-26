@@ -1,0 +1,23 @@
+{
+  "name": "@tenmednetwork/greeting",
+  "version": "1.0.0",
+  "description": "Greetings from Tenmed Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeep-TMN/greetings.git"
+  },
+  "keywords": [
+    "TENMED"
+  ],
+  "author": "Tenmed Network",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeep-TMN/greetings/issues"
+  },
+  "homepage": "https://github.com/sandeep-TMN/greetings#readme"
+}
